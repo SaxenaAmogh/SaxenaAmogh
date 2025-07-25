@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Development<br>🌱 My skills: Kotlin, Java, Jetpack Compose, XML, Python, Flask, MySQL<br>⚡ Sophomore Year | CSE'2027
+🔭 I’m currently working on Android Development<br>🌱 My skills: Python, Kotlin, Java, Jetpack Compose, Flask, MySQL<br>⚡ Junior Year | CSE'2027
 
 
 ## 🌐 Socials:
