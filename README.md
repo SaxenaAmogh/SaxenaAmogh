@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏆Smart India Hackathon 2025 Winner<br>🔭 I’m currently working on Android Development<br>🌱 My skills: Python, Kotlin, Java, Jetpack Compose, MySQL<br>⚡ Pre-Final Year | CSE'2027
+🏆 Smart India Hackathon 2025 Winner<br>🔭 I’m currently working on Android Development<br>🌱 My skills: Python, Kotlin, Java, Jetpack Compose, MySQL<br>⚡ Pre-Final Year | CSE'2027
 
 
 ## 🌐 Socials:
